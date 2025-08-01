@@ -1,5 +1,4 @@
 import streamlit as st
-from deep_translator import GoogleTranslator
 import openai
 
 # Set up page configuration
